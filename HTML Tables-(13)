@@ -1,0 +1,43 @@
+ <!DOCTYPE html>
+ <html lang:"en">
+  <head>
+  <link rel="stylesheet" href="font.css"> 
+  
+  </head>
+  <body>
+    
+  
+    <table>
+      <tr>
+        <th> serial</th>
+        <th>language</th>
+        <th>fun</th>
+      </tr>
+      <tr>
+        <td>01</td>
+        <td>html</td>
+        <td>yes</td>
+      </tr>
+      <tr>
+        <td>02</td>
+        <td>css</td>
+        <td>yes</td>
+      </tr>
+      <tr>
+        <td>03</td>
+        <td>js</td>
+        <td>yes</td>
+      </tr>
+    </table>
+  </body>
+ </html>
+
+css দিয়ে সুন্দর করার কমান্ড
+table, 
+td, 
+tr,
+th{
+  border: 1px solid #ddd;
+  border-collapse:collapse ;
+  padding: 10px;
+}
