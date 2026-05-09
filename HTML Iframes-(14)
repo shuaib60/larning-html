@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <iframe src="https://www.somoynews.tv/" fremborder="0" height="350" width="200"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3621.658931198256!2d90.506136!3d24.8071299!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3756516158b44f03%3A0x36b5074ef5cfb946!2z4Kak4KeH4KaB4Kak4KaHIOCmpOCmsuCmviAtIFRBTUFSSU5EIFRSRUUgT2YgS2FzaGlnYW5qIEJhemFy!5e0!3m2!1sen!2sbd!4v1778348788583!5m2!1sen!2sbd" width="200" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe width="200" height="450" src="https://www.youtube.com/embed/h6fbzOkMToU" title="iPhone - 20 তে থাকতে চলছে যেসব ইন্টারেস্টিং ফিচার ।।Oppo ফোনে 100MP ফ্রন্ট ক্যামেরা #TN603" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ </body>
+</html>
