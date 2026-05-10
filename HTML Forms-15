@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head></head>
+  <body>
+    <form>
+      <input type="radio">
+      <lebel>HTML</lebel>
+      <input type="radio">
+      <lebel>CSS</lebel>
+
+      <lebel for="">Name</lebel>
+    </form>
+    <input type="name" placeholder="Enter Your Name">
+    <from>
+      <lebel for="">Email</lebel>
+      <input type="Email" placeholder="Enter Your Email">
+    </from>
+    <from>
+      <lebel for="">Password</lebel>
+      <input type="Email" placeholder="Enter Your Password">
+      
+    </from>
+    <from>
+      <lebel for="">Phone</lebel>
+      <input type="Number" placeholder="Enter Your Number">
+      <lebel for="">Massage</lebel>
+       <textarea placeholder="Your Massage"></textarea>
+    </from>
+    <input type="Submit">
+  </body>
+</html>
